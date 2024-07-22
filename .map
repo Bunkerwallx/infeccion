@@ -1,0 +1,14 @@
+apk_tool_project/
+├── bin/
+│   └── apk_tool               # Archivo binario compilado
+├── include/
+│   └── apk_tool.h             # Archivo de cabecera con las declaraciones de funciones
+├── src/
+│   └── apk_tool.c             # Código fuente principal
+├── lib/
+│   ├── apktool/               # Colocar el binario de apktool aquí
+│   └── curl/                  # Librería curl, si no está instalada globalmente
+├── data/
+│   └── Spotify_Mod.apk        # APK descargado específico
+├── Makefile                   # Makefile para compilar el proyecto
+└── README.md                  # Documentación del proyecto
