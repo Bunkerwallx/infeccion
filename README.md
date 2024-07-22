@@ -16,5 +16,5 @@ Este proyecto en C permite la manipulación de archivos APK, incluyendo decompil
 Para compilar el proyecto, ejecuta:
 
 ```sh
-make 
+make run
 ```
